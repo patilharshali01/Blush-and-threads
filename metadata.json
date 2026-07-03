@@ -1,0 +1,6 @@
+{
+  "name": "Blush Threads",
+  "description": "A premium e-commerce platform for handcrafted thread embroidery, customized portraits, and exquisite textile art, complete with an elegant design, admin controls, and AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
